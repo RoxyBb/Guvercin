@@ -1,6 +1,6 @@
 🕊️ Güvercin – Kişisel Siber Güvenlik AI
 
-Güvercin 🕊️, kişisel siber güvenlik çalışmalarınızı hızlandırmak ve kolaylaştırmak için geliştirilmiş akıllı bir yapay zekâdır. Web uygulamaları, güvenlik açıkları ve siber saldırı senaryoları hakkında hızlı, anlaşılır ve pratik yanıtlar sunar.
+Güvercin 🕊️, kişisel siber güvenlik çalışmalarınızı desteklemek için geliştirilmiş akıllı bir yapay zekâdır. Web uygulamaları, güvenlik açıkları ve siber saldırı senaryoları hakkında hızlı, anlaşılır ve pratik yanıtlar sunar.
 
 🚀 Özellikler
 
@@ -12,24 +12,13 @@ Güvercin 🕊️, kişisel siber güvenlik çalışmalarınızı hızlandırmak
 
 ⚡ Hızlı ve Pratik: Sorularınıza anında ve anlaşılır cevaplar üretir.
 
-💡 Kullanım Örnekleri
-from guvercin import SecurityAI
+💡 Kullanım Alanları
 
-ai = SecurityAI()
+Kişisel pentest ve güvenlik analizleri.
 
-# Web uygulaması güvenliği hakkında soru sor
-response = ai.ask("Web sitemde XSS açığı nasıl test edebilirim?")
-print(response)
+Web uygulamaları için güvenlik risklerini değerlendirme.
 
-# Güvenlik önerisi al
-advice = ai.recommend("SQL Injection riskini azaltmak için ne yapmalıyım?")
-print(advice)
-
-🌐 Demo Önerisi
-
-Web tabanlı küçük bir UI ile Güvercin’e sorular sorabilirsiniz.
-
-Terminal üzerinden hızlı testler yapabilir, kişisel pentest senaryolarını deneyebilirsiniz.
+Siber güvenlik öğrenme ve referans aracı olarak.
 
 ✨ Öne Çıkan Avantajlar
 
