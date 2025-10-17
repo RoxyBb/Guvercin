@@ -1,19 +1,27 @@
-🕊️ Güvercin – Web Security AI
+🕊️ Güvercin – Kişisel Siber Güvenlik AI
 
-Güvercin 🕊️, web güvenliği uzmanları ve pentester’lar için özel olarak geliştirilmiş, Claude tarzı causal transformer tabanlı bir yapay zekadır. Web güvenliği konularında soru-cevap, risk analizi ve öneri üretmek için optimize edilmiştir.
+Güvercin 🕊️, kişisel siber güvenlik çalışmalarınızı desteklemek için geliştirilmiş akıllı bir yapay zekâ modelidir. Web uygulamaları, güvenlik açıkları ve saldırı senaryoları hakkında hızlı, anlaşılır ve pratik yanıtlar sunar.
 
 🚀 Özellikler
 
-🔒 Güvenlik Odaklı: XSS, SQL Injection, CSRF, API güvenliği, token yönetimi ve oturum güvenliği gibi kritik web güvenlik konularını anlayıp yanıtlayabilir.
+🔒 Güvenlik Odaklı: XSS, SQL Injection, CSRF, API güvenliği, token yönetimi ve oturum güvenliği gibi konuları anlayabilir.
 
-⚡ AMD GPU Desteği: DirectML ile Windows üzerinde yüksek performans.
+🤖 Akıllı Öneriler: Risk analizleri ve güvenlik tavsiyeleri sağlar.
 
-🤖 Modern Transformer: Çoklu dikkat mekanizmaları ve feed-forward bloklarıyla güçlü dil modellemesi.
+🧩 Kişisel Asistan: Siber güvenlik çalışmalarında rehberlik ve bilgi desteği sunar.
 
-🧩 BPE Tokenizer: Karakter ve güvenlik terimleri tabanlı özel tokenizer ile doğru ve kapsamlı yanıtlar.
+💡 Kullanım Alanları
 
-📝 Kolay Eğitim & Checkpoint: Cross-entropy kaybı, gradient accumulation ve checkpoint sistemi ile optimize edilmiş eğitim.
+Kişisel pentest ve güvenlik analizleri.
 
-📈 Kullanım
+Web uygulamaları için güvenlik risklerini anlamak.
 
-Python 3.11 ve gerekli paketleri kurun:
+Siber güvenlik öğrenme ve referans aracı olarak.
+
+⚡ Öne Çıkan Avantajlar
+
+✅ Kendi siber güvenlik çalışmalarınızı hızlandırır.
+
+✅ Güvenlik konularında doğru ve anlaşılır yanıtlar verir.
+
+✅ Kendi kişisel AI siber güvenlik asistanınız olur.
